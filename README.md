@@ -6,6 +6,7 @@ This project is a fully responsive website built using [Tailwind CSS](https://ta
 
 
 ## Features
+
 - Mobile-first design approach
 - Responsive layout that adapts to different screen sizes
 - Utilizes Tailwind CSS for easy styling and customization
